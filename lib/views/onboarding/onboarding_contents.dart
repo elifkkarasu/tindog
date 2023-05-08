@@ -20,7 +20,7 @@ List<OnboardingContents> contents = [
     title: "Onları tanıyın",
     image: "assets/images/img2.png",
     desc:
-        " Sitemizdeki köpeklerle tanışın ve anlaşacağınız köpeği bulmaya çalışın.",
+        " Sitemizdeki köpeklerle tanışın ve  anlaşacağınız köpeği bulmaya çalışın.",
   ),
   OnboardingContents(
     title: "Sahiplenin",

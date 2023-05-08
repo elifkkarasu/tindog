@@ -74,7 +74,7 @@ class _PetSelectionViewState extends State<PetSelectionView> {
                           child: Image.asset('assets/images/eskimodog.jpg'),
                         ),
                         const SizedBox(
-                          child: Text('İsim: Moris\nCins: Amerikan Eskimo'),
+                          child: Text('İsim:Moris\nCins: Amerikan Eskimo'),
                         ),
                       ],
                     ),
