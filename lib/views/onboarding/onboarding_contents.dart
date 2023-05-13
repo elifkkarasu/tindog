@@ -12,7 +12,7 @@ class OnboardingContents {
 
 List<OnboardingContents> contents = [
   OnboardingContents(
-    title: "Köpeklerle tanışın",
+    title: "Kopeklerle tanışın",
     image: "assets/images/img1.png",
     desc: " Sitemizdeki yüzlerce köpekle profillerine bakarak tanışın.",
   ),
@@ -25,6 +25,6 @@ List<OnboardingContents> contents = [
   OnboardingContents(
     title: "Sahiplenin",
     image: "assets/images/img3.png",
-    desc: "Yeni yavrunuzu sahiplenin ve birlikte mutluca yaşayın!.",
+    desc: "Yeni yavrunuzu sahiplenin ve beraber mutluca yaşayın!.",
   ),
 ];
